@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Ladder
+  - Player
+  - Background
+  - Mushroom
+  - Blob
+  - Hazards
+  - Interactables
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3763925309
+    locked: 0
+  - name: Water
+    uniqueID: 501740475
+    locked: 0
+  - name: Platforms
+    uniqueID: 3107390269
+    locked: 0
+  - name: Ladder
+    uniqueID: 629649787
+    locked: 0
+  - name: Hazards
+    uniqueID: 2568992611
+    locked: 0
+  - name: Mushrooms
+    uniqueID: 883903269
+    locked: 0
+  - name: Interactables
+    uniqueID: 3822633783
+    locked: 0
+  - name: Blob
+    uniqueID: 2111379165
+    locked: 0
+  - name: Player
+    uniqueID: 3433699539
+    locked: 0
